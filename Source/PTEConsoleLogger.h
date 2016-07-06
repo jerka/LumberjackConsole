@@ -19,6 +19,7 @@
 //
 
 #import <CocoaLumberjack/DDLog.h>
+#import <UIKit/UIKit.h>
 
 @class PTEConsoleTableView;
 

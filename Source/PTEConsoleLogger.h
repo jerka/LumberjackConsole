@@ -19,6 +19,7 @@
 //
 
 #import <CocoaLumberjack/CocoaLumberjack.h>
+#import <UIKit/UIKit.h>
 
 @class PTEConsoleTableView;
 
